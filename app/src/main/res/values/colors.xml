@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFB20C</color>
+    <color name="colorPrimaryDark">#DE9B0B</color>
+    <color name="colorAccent">#FFB20C</color>
+    <color name="textHeadline">#434343</color>
+    <color name="textDescription">#686868</color>
+    <color name="lightGrey">#EAEAEA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="purple_200">#50C2C9</color>
+    <color name="purple_500">#50C2C9</color>
+    <color name="purple_700">#50C2C9</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="celeste">#F0A8E5ED</color>
+    <color name="colorPrimaryy">#3700B3</color>
+    <color name="colorPrimaryDarkk">#EAEAEA</color>
+    <color name="colorAccentt">#be84ff</color>
+    <color name="coloWhite">#FFFFFF</color>
+    <color name="colorDark">#000000</color>
+    <color name="colorText">#514451</color>
+    <color name="colorOrange">#fea531</color>
+
+
+    //onboarding colores
+    <color name="background">#F0F4F3</color>
+    <color name="buttontext">#50C2C9</color>
+
+    //indicador colores
+    <color name="inactive">#C4C4C4</color>
+    <color name="active">#50C2C9</color>
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Finder</string>
+    <string name="register_button">No tienes cuenta?<b> Registrate Aquí</b></string>
+    //Headings
+    <string name="heading_one">Bienvenido/a</string>
+    <string name="heading_two">Ubicación</string>
+    <string name="heading_three">Ayudémonos</string>
+    <string name="heading_fourth">Conviértete en un Finder</string>
+
+    //Descripción
+    <string name="desc_one">Finder es una aplicación que promueve la búsqueda de Personas</string>
+    <string name="desc_two">Podrás ver las ubicaciones recientes de personas con las mismas características de quien estés buscando</string>
+    <string name="desc_three">Con solo subir una descripción y fotos, ayudarás a que muchas familias se reencuentren</string>
+    <string name="desc_fourth">Una pequeña contribución puede hacer un gran cambio, disfruta de tu estancia en Finder. </string>
+
+
+    //temporal
+
+    <string name="desAna">Nombre: Ana María Montecinos, se encontraba en las afueras de la ciudad, vestía de polera amarilla y pantalón negro.</string>
+    <string name="des2">Nombre: Luisa Espinoza, se la halló en el metro Tobalaba, vestía short marrón y polerón azul.</string>
+    <string name="des4">Nombre: Eva Ramirez, se la encontró por la comuna de Puente alto, traía consigo una mochila y un lazo rojo .</string>
+    <string name="des5">Nombre: Hannah Montana, su ubicación fue en metro Patronato afuera de la Vega Central.</string>
+    <string name="descripcionDefi">Nombre: Celeste Rodriguez, fue vista por ultima ves en metro los Héroes cerca al establecimiento de comida "Burger King". </string>
+    <string name="des6">Nombre: Camila Cabello, fue vista en Independencia caminando en dirección hacia la comuna de Recoleta, vestía de negro.</string>
+
+    <string name="googleApi">AIzaSyDKaUGSPsglCy6R46ikVjjQdEmmCEX3XFA</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibWFkcGFuZGEwNCIsImEiOiJjbDl1c2VtN2cwMXlkM29sczM0c3Z6YnRpIn0.woaQb0hjE8EL82w0nsy7wA</string>
+
+    <string name="app_namee">FINDS</string>
+    <string name="all">TODO</string>
+    <string name="name">Ana Escarate</string>
+    <string name="episode">Polera roja</string>
+    <string name="description">El dios de la Destrucción ha despertado, y se está dedicando a aniquilar planetas y acaba de descubrir la Tierra. Cuando lo descubre, el guerrero Goku pide ayuda de sus amigos para convertirse en un legendario Super Saiyajin y poder derrotarlo.</string>
+    <string name="form_title">Nuevo Anime</string>
+    <string name="name_url">Url imagen</string>
+    <string name="name_description">Descripción</string>
+    <string name="name_score">Calificación</string>
+    <string name="name_episode">N° Episodio</string>
+    <string name="name_name">Nombre</string>
+    <string name="title_add">AÑADE UN NUEVO FIND!</string>
+    <string name="title_edit">Datos de la Persona</string>
+    <string name="save">Guardar</string>
+</resources>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tutorial"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:background="@color/celeste"
+    tools:context=".LuisaActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="LUISA ESPINOZA"
+            android:textAllCaps="true"
+            android:textColor="@color/purple_700"
+            android:textSize="28dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imgView_logo_rays"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:src="@drawable/foto2"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="100dp"/>
+
+        <TextView
+            android:id="@+id/txtArticDos"
+            android:layout_width="200dp"
+            android:layout_height="78dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:layout_marginBottom="20dp"
+            android:text="@string/des2" />
+
+
+        <com.mapbox.maps.MapView
+            android:id="@+id/mapView"
+            android:layout_width="252dp"
+            android:layout_height="252dp"
+            android:layout_gravity="center"
+            app:mapbox_cameraTargetLat="-30.0000000"
+            app:mapbox_cameraTargetLng="-71.0000000"
+            app:mapbox_cameraZoom="9.0" />
+
+    </LinearLayout>
+
+</RelativeLayout>
